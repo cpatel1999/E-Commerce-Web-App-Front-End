@@ -1,5 +1,5 @@
 import React from 'react'
-import Menu from './core/Menu'
+import Menu from './Menu'
 
 function Layout({ 
     title = 'Title', 
